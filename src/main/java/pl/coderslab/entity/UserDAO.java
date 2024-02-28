@@ -1,7 +1,7 @@
 package pl.coderslab.entity;
 
 import org.mindrot.jbcrypt.BCrypt;
-import pl.coderslab.DBUtil;
+import pl.coderslab.utils.DBUtil;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
